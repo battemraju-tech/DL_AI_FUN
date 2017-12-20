@@ -1,4 +1,4 @@
-#Improving the ANN With Regularization(Dropout)
+#Hyper Parameter using grid search cv
 from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.model_selection import cross_val_score,GridSearchCV
 from keras.models import Sequential
