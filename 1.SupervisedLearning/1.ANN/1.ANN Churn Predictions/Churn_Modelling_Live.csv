@@ -1,0 +1,4 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+1,123456789,Gangaraju,600,France,Male,40,3,60000,2,1,1,50000,
+,,,,Spain,Female,,,,,,,,
+,,,,Germany,,,,,,,,,
