@@ -1,0 +1,7 @@
+like	1 
+good	1 
+appreciate	2
+best	3
+bad	-1 
+worst	-2
+terrible	-3
