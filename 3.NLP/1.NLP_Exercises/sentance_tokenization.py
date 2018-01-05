@@ -1,3 +1,4 @@
+#https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 from nltk.tokenize import sent_tokenize
 sentence = sent_tokenize("Hello NLP learner. This is an NLP python script")
 print (sentence)
