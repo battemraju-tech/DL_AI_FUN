@@ -1,3 +1,4 @@
+#https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 import os
 
 os.chdir('D:/Data/DataScience/DeepLearning/Natural Language Processing/NLP_handson/training_data/')
