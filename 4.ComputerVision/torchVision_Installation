@@ -1,3 +1,4 @@
 torchVision_Installation
 
 pip install torchvision
+conda install -c menpo imageio
