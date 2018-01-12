@@ -1,7 +1,7 @@
 GANs architecture. 
 
 while epochs=25:
-	while i/100=0:#comm
+	while i/100=0:#Communicate between two minds(Gen, Disc) till 100 times for better understand between them.
 		Discriminator-train(DeepCNN) with real images--output1
 		Generator​-train(DeepCNN) with fake images--output2
 		Discriminator-train with fake images now, generated from Generator--output3
