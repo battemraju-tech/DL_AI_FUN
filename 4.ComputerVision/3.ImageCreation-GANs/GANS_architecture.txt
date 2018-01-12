@@ -2,10 +2,13 @@ GANs architecture.
 
 while epochs=25:
 	while i/100=0:#comm
-		Discriminator-train with real images--output1
-		Generator​-train with fake images--output2
+		Discriminator-train(DeepCNN) with real images--output1
+		Generator​-train(DeepCNN) with fake images--output2
 		Discriminator-train with fake images now, generated from Generator--output3
 			error rate - Discriminator will find error rate from output1 & output3, update weights using optimization(SGD)
 		back propagation
-		Discriminator-train with real images--output3
-		Generator​-train with fake images--output4
+		Discriminator-train(DeepCNN) with new weights and real images--output3
+		Generator​-train(DeepCNN) with new weights and fake images --output4
+		
+===================================================================================
+Final Output = New Objects/images will come, that may never seen on planet.
